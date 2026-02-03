@@ -39,7 +39,7 @@
     ]
   },
   {
-    "courseId": "yang85",
+    "courseId": "yang85b",
     "courseName": "B",
     "stages": [
       {
@@ -56,8 +56,25 @@
     ]
   },
   {
-    "courseId": "yang85",
+    "courseId": "yang85c",
     "courseName": "C",
+    "stages": [
+      {
+        "stageId": "basic",
+        "stageName": "基础阶段",
+        "parts": [
+          {
+            "partId": "part1_stances",
+            "partName": "第一部分：基本桩功",
+            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json" 
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "yang85d",
+    "courseName": "D",
     "stages": [
       {
         "stageId": "basic",
@@ -75,6 +92,6 @@
 ]
 //https://github.com/maljaiun/ChiPath/tree/main
 //https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/course_data.json
-//vbuild260203b10
+//vbuild260203b11
 
 
