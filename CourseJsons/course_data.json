@@ -1,0 +1,84 @@
+[
+  {
+    "courseId": "yang85",
+    "courseName": "杨式85式太极拳",
+    "stages": [
+      {
+        "stageId": "basic",
+        "stageName": "基础阶段",
+        "parts": [
+          {
+            "partId": "part1_stances",
+            "partName": "第一部分：基本桩功",
+            "lessonFile": "https://gist.githubusercontent.com/maljaiun/3c323ead5aba19a5ea7007eea2d8b673/raw/" 
+          }
+        ]
+      },
+        {
+            "stageId": "intermediate",
+            "stageName": "中级阶段",
+            "parts": [
+            {
+                "partId": "part1_stances",
+                "partName": "第一部分：基本桩功",
+                "lessonFile": "https://gist.githubusercontent.com/maljaiun/3c323ead5aba19a5ea7007eea2d8b673/raw/" 
+            }
+            ]
+        },
+        {
+            "stageId": "advanced",
+            "stageName": "高级阶段",
+            "parts": [
+            {
+                "partId": "part1_stances",
+                "partName": "第一部分：基本桩功",
+                "lessonFile": "https://gist.githubusercontent.com/maljaiun/3c323ead5aba19a5ea7007eea2d8b673/raw/" 
+            }
+            ]
+        }
+    ]
+  },
+  {
+    "courseId": "yang85",
+    "courseName": "B",
+    "stages": [
+      {
+        "stageId": "basic",
+        "stageName": "基础阶段",
+        "parts": [
+          {
+            "partId": "part1_stances",
+            "partName": "第一部分：基本桩功",
+            "lessonFile": "https://gist.githubusercontent.com/maljaiun/3c323ead5aba19a5ea7007eea2d8b673/raw/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "yang85",
+    "courseName": "C",
+    "stages": [
+      {
+        "stageId": "basic",
+        "stageName": "基础阶段",
+        "parts": [
+          {
+            "partId": "part1_stances",
+            "partName": "第一部分：基本桩功",
+            "lessonFile": "https://gist.githubusercontent.com/maljaiun/3c323ead5aba19a5ea7007eea2d8b673/raw/" 
+          }
+        ]
+      }
+    ]
+  }
+]
+//2026-02-03 新增85式太极拳课程数据
+//Edit
+//https://gist.github.com/maljaiun/3a826f7388c71a3563f9d0c5b0bfca50 
+//raw
+//https://gist.githubusercontent.com/maljaiun/3a826f7388c71a3563f9d0c5b0bfca50/raw/
+// todo 
+// make course_data_zh.json for chinese users
+// v 26-02-03 build 3
+//https://gist.githubusercontent.com/maljaiun/3a826f7388c71a3563f9d0c5b0bfca50/raw/6872ab57aa5a62e828a724c52cfcf66b82e7e335/courses26.json

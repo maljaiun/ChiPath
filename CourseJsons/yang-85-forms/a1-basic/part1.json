@@ -1,0 +1,76 @@
+{
+    "partId": "part1_stances",
+    "lessons": [
+        {
+            "lessonId": "y85_b1_01",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        },
+        {
+            "lessonId": "y85_b1_02",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        },
+        {
+            "lessonId": "y85_b1_03",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        },
+        {
+            "lessonId": "y85_b1_04",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        },
+        {
+            "lessonId": "y85_b1_05",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        },
+        {
+            "lessonId": "y85_b1_06",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        },
+        {
+            "lessonId": "y85_b1_07",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        },
+        {
+            "lessonId": "y85_b1_08",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        },
+        {
+            "lessonId": "y85_b1_09",
+            "lessonTitle": "1. Preparatory Stance",
+            "videoUrl": "https://youtu.be/Guu005L0jIM",
+            "duration": 180, // seconds
+            "tips": "straight down to your heels..."
+        }
+    ]
+}
+
+//2026-02-03 新增85式太极拳课程数据
+
+// Edit
+// https://gist.github.com/maljaiun/3c323ead5aba19a5ea7007eea2d8b673
+
+//raw
+//https://gist.githubusercontent.com/maljaiun/3c323ead5aba19a5ea7007eea2d8b673/raw/
