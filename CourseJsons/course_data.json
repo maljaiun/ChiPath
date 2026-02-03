@@ -10,32 +10,32 @@
           {
             "partId": "part1_stances",
             "partName": "第一部分：基本桩功",
-            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json" 
+            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json"
           }
         ]
       },
-        {
-            "stageId": "intermediate",
-            "stageName": "中级阶段",
-            "parts": [
-            {
-                "partId": "part1_stances",
-                "partName": "第一部分：基本桩功",
-                "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json" 
-            }
-            ]
-        },
-        {
-            "stageId": "advanced",
-            "stageName": "高级阶段",
-            "parts": [
-            {
-                "partId": "part1_stances",
-                "partName": "第一部分：基本桩功",
-                "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json" 
-            }
-            ]
-        }
+      {
+        "stageId": "intermediate",
+        "stageName": "中级阶段",
+        "parts": [
+          {
+            "partId": "part1_stances",
+            "partName": "第一部分：基本桩功",
+            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json"
+          }
+        ]
+      },
+      {
+        "stageId": "advanced",
+        "stageName": "高级阶段",
+        "parts": [
+          {
+            "partId": "part1_stances",
+            "partName": "第一部分：基本桩功",
+            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json"
+          }
+        ]
+      }
     ]
   },
   {
@@ -66,7 +66,7 @@
           {
             "partId": "part1_stances",
             "partName": "第一部分：基本桩功",
-            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json" 
+            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json"
           }
         ]
       }
@@ -83,15 +83,10 @@
           {
             "partId": "part1_stances",
             "partName": "第一部分：基本桩功",
-            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json" 
+            "lessonFile": "https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/yang-85-forms/a1-basic/part1.json"
           }
         ]
       }
     ]
   }
 ]
-//https://github.com/maljaiun/ChiPath/tree/main
-//https://raw.githubusercontent.com/maljaiun/ChiPath/refs/heads/main/CourseJsons/course_data.json
-//vbuild260203b11
-
-
