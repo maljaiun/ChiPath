@@ -1,6 +1,7 @@
 [
   {
     "courseId": "yang85",
+    "courseLogo": "https://raw.githubusercontent.com/maljaiun/ChiPath/f07a57d21b22c1155b4fd6204784d6d878ca8ac4/assets/courselogo/yang85forms.png",
     "courseName": "杨式85式太极拳",
     "stages": [
       {
@@ -40,6 +41,7 @@
   },
   {
     "courseId": "yang85b",
+    "courseLogo": "https://raw.githubusercontent.com/maljaiun/ChiPath/f07a57d21b22c1155b4fd6204784d6d878ca8ac4/assets/courselogo/yang85forms.png",
     "courseName": "B",
     "stages": [
       {
@@ -57,6 +59,7 @@
   },
   {
     "courseId": "yang85c",
+    "courseLogo": "https://raw.githubusercontent.com/maljaiun/ChiPath/f07a57d21b22c1155b4fd6204784d6d878ca8ac4/assets/courselogo/yang85forms.png",
     "courseName": "C",
     "stages": [
       {
@@ -74,6 +77,7 @@
   },
   {
     "courseId": "yang85d",
+    "courseLogo": "https://raw.githubusercontent.com/maljaiun/ChiPath/f07a57d21b22c1155b4fd6204784d6d878ca8ac4/assets/courselogo/yang85forms.png",
     "courseName": "D",
     "stages": [
       {
