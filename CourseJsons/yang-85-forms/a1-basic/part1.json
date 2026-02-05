@@ -3,6 +3,7 @@
     "lessons": [
         {
             "lessonId": "y85_b1_01",
+            "lessonType": "video",
             "lessonTitle": "1. Preparatory Stance",
             "videoUrl": "https://youtu.be/Guu005L0jIM",
             "duration": 180, 
@@ -10,6 +11,7 @@
         },
         {
             "lessonId": "y85_b1_02",
+            "lessonType": "game",
             "lessonTitle": "2. The Opening Form",
             "videoUrl": "https://youtu.be/Eg19viqn1Tc",
             "duration": 180, 
@@ -17,6 +19,7 @@
         },
         {
             "lessonId": "y85_b1_03",
+            "lessonType": "video",
             "lessonTitle": "3. Ward Off Left",
             "videoUrl": "https://youtu.be/ubaqjFNb3JI",
             "duration": 180,
@@ -24,6 +27,7 @@
         },
         {
             "lessonId": "y85_b1_04",
+            "lessonType": "video",
             "lessonTitle": "4. Ward Off Right",
             "videoUrl": "https://youtu.be/t6CYJ73Ez54",
             "duration": 180,
@@ -31,6 +35,7 @@
         },
         {
             "lessonId": "y85_b1_05",
+            "lessonType": "video",
             "lessonTitle": "5. Roll Back",
             "videoUrl": "https://youtu.be/iHouwoYXKbk",
             "duration": 180, 
@@ -38,6 +43,7 @@
         },
         {
             "lessonId": "y85_b1_06",
+            "lessonType": "video",
             "lessonTitle": "6. Press",
             "videoUrl": "https://youtu.be/OHMSTzR0zYg",
             "duration": 180, 
@@ -45,6 +51,7 @@
         },
         {
             "lessonId": "y85_b1_07",
+            "lessonType": "video",
             "lessonTitle": "7. Push",
             "videoUrl": "https://youtu.be/yfwSuIdCf_o",
             "duration": 180, 
@@ -52,6 +59,7 @@
         },
         {
             "lessonId": "y85_b1_08",
+            "lessonType": "video",
             "lessonTitle": "8. Single Whip",
             "videoUrl": "https://youtu.be/-UJDiIwtcqw",
             "duration": 180, 
@@ -59,6 +67,7 @@
         },
         {
             "lessonId": "y85_b1_09",
+            "lessonType": "video",
             "lessonTitle": "9. Recap",
             "videoUrl": "https://youtu.be/n7pIbbGYdY8",
             "duration": 180, 
