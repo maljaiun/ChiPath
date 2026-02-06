@@ -1,0 +1,88 @@
+{
+    "courses": [
+        {
+            "courseId": "101yang85d",
+            "courseLogo": "https://raw.githubusercontent.com/maljaiun/ChiPath/f07a57d21b22c1155b4fd6204784d6d878ca8ac4/assets/courselogo/yang85forms.png",
+            "courseName": "D",
+            "stages": [
+                {
+                    "stageId": "101basic",
+                    "stageName": "basic 1",
+                    "parts": [
+                        {
+                            "partId": "part1_stances",
+                            "partName": "First part: Single Whip",
+                            "sections": [
+                                {
+                                    "lessonId": "y85_b1_01",
+                                    "lessonType": "video",
+                                    "lessonTitle": "1. Preparatory Stance",
+                                    "videoUrl": "https://youtu.be/Guu005L0jIM",
+                                },
+                                {
+                                    "lessonId": "y85_b1_02",
+                                    "lessonType": "game",
+                                    "lessonTitle": "2. The Opening Form",
+                                    "videoUrl": "https://youtu.be/Eg19viqn1Tc",
+                                },
+                                {
+                                    "lessonId": "y85_b1_03",
+                                    "lessonType": "video",
+                                    "lessonTitle": "3. Ward Off Left",
+                                    "videoUrl": "https://youtu.be/ubaqjFNb3JI",
+                                },
+                                {
+                                    "lessonId": "y85_b1_04",
+                                    "lessonType": "video",
+                                    "lessonTitle": "4. Ward Off Right",
+                                    "videoUrl": "https://youtu.be/t6CYJ73Ez54",
+                                },
+                                {
+                                    "lessonId": "y85_b1_05",
+                                    "lessonType": "video",
+                                    "lessonTitle": "5. Roll Back",
+                                    "videoUrl": "https://youtu.be/iHouwoYXKbk",
+                                },
+                                {
+                                    "lessonId": "y85_b1_06",
+                                    "lessonType": "video",
+                                    "lessonTitle": "6. Press",
+                                    "videoUrl": "https://youtu.be/OHMSTzR0zYg",
+                                },
+                                {
+                                    "lessonId": "y85_b1_07",
+                                    "lessonType": "video",
+                                    "lessonTitle": "7. Push",
+                                    "videoUrl": "https://youtu.be/yfwSuIdCf_o",
+                                },
+                                {
+                                    "lessonId": "y85_b1_08",
+                                    "lessonType": "video",
+                                    "lessonTitle": "8. Single Whip",
+                                    "videoUrl": "https://youtu.be/-UJDiIwtcqw",
+                                },
+                                {
+                                    "lessonId": "y85_b1_09",
+                                    "lessonType": "video",
+                                    "lessonTitle": "9. Recap",
+                                    "videoUrl": "https://youtu.be/n7pIbbGYdY8",
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "version": "1.0.0",
+    "courseversion": "2024.06.10",
+    "lastUpdated": "2024-06-10T12:00:00Z",
+    "bottomAds": {
+        "title": "Limtied Time Offer!",
+        "description": "Enroll now and get 50% off on all courses."
+    },
+    "topPromts": {
+        "title": "New Course Available!",
+        "description": "Check out our latest course on Advanced Tai Chi Forms."
+    }
+}
